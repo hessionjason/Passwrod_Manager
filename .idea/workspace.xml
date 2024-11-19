@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bcd6dc00-c30c-4c59-bec7-94029be54195" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passman.py" beforeDir="false" afterPath="$PROJECT_DIR$/passman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passman.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,9 @@
     "accountId": "2e25749d-450d-4bf9-87c8-388f7e8859c2"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -46,10 +49,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.passman.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PersonalProjects\python-passman" />
+      <recent name="C:\PersonalProjects\python-passman\.venv" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
